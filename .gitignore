@@ -2,4 +2,7 @@
 .idea
 
 # compiled
-basics/fork/fork
+basics/01-fork/fork
+basics/02-exec/exec
+basics/03-signal/sender
+basics/03-signal/receiver
