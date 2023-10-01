@@ -1,6 +1,9 @@
 # IDE
 .idea
 
+# cmake
+cmake-build-debug
+
 # compiled
 basics/01-fork/fork
 basics/02-exec/exec
@@ -9,3 +12,8 @@ ipc/03-signal/receiver
 ipc/es01-signals/es01
 ipc/es02-pipe/es02
 ipc/es03-fifo/es03
+ipc/es04-message_queues/reader
+ipc/es04-message_queues/writer
+
+# files
+ipc/es04-message_queues/output.log
