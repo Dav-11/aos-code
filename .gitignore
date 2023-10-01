@@ -4,5 +4,8 @@
 # compiled
 basics/01-fork/fork
 basics/02-exec/exec
-basics/03-signal/sender
-basics/03-signal/receiver
+ipc/03-signal/sender
+ipc/03-signal/receiver
+ipc/es01-signals/es01
+ipc/es02-pipe/es02
+ipc/es03-fifo/es03
